@@ -9,19 +9,6 @@
 
 ---
 
-## 👨‍💻 Sobre mí
-Soy **Desarrollador Fullstack** con experiencia en **arquitectura de software, desarrollo de sistemas empresariales y despliegues en la nube**.  
-Actualmente trabajo en **PX Control** y lidero proyectos freelance bajo mi marca **QuickDevSolutions**, ayudando a pymes y empresas a modernizar sus procesos.  
-
-Me apasiona:
-- Crear **soluciones digitales escalables** que resuelvan problemas reales.  
-- Automatizar procesos con **CI/CD** e infraestructura en la nube.  
-- Combinar **frontend moderno + backend robusto** para experiencias completas.  
-
-📍 Basado en Argentina — abierto a proyectos **freelance internacionales y colaboraciones remotas**.  
-
----
-
 ## 🚀 Tech Stack
 <p align="center">
   <!-- Lenguajes -->
@@ -63,6 +50,19 @@ Me apasiona:
 
 ---
 
+## 👨‍💻 Sobre mí
+Soy **Desarrollador Fullstack** con experiencia en **arquitectura de software, CI/CD, despliegues cloud y desarrollo de sistemas empresariales**.  
+Actualmente trabajo en **PX Control** y lidero proyectos freelance bajo mi marca **QuickDevSolutions**, ayudando a empresas a **modernizar procesos y automatizar operaciones**.  
+
+Me especializo en:
+- **Frontend moderno + Backend robusto**.  
+- **Automatización de despliegues** con CI/CD.  
+- **SaaS y sistemas empresariales escalables**.  
+
+📍 Basado en Argentina — disponible para proyectos **freelance internacionales**.  
+
+---
+
 ## 📌 Proyectos Destacados
 🔹 [**GR Entregas**](#)  
 Sistema de logística con gestión de entregas, estados, reprogramaciones, pagos mixtos y métricas en tiempo real.  
@@ -72,14 +72,6 @@ Agenda jerárquica inteligente para clientes, sedes, departamentos y contactos, 
 
 🔹 [**PX Enterprise Manager**](#)  
 Sistema de monitoreo industrial de **motobombas**, con dashboards, reportes automáticos y control operativo.  
-
----
-
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical&hide_border=true"/>
-</p>
 
 ---
 
