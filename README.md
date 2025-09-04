@@ -50,7 +50,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 Soy **Desarrollador Fullstack** con experiencia en **arquitectura de software, CI/CD, despliegues cloud y desarrollo de sistemas empresariales**.  
 Actualmente trabajo en **PX Control** y lidero proyectos freelance bajo mi marca **QuickDevSolutions**, ayudando a empresas a **modernizar procesos y automatizar operaciones**.  
 
@@ -75,7 +75,7 @@ Sistema de monitoreo industrial de **motobombas**, con dashboards, reportes auto
 
 ---
 
-## 🌍 Conéctemos
+##  Conéctemos
 <p align="center">
   <a href="https://www.linkedin.com/in/maximo-paz-49b278255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge"/>
