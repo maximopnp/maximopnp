@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <b>💻 Fullstack Developer | 🚀 Founder @ QuickDevSolutions | 🌐 SaaS & Business Software Builder</b>
+  <b> Fullstack Developer | Founder @ QuickDevSolutions | SaaS & Business Software Builder</b>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 <p align="center">
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
@@ -59,7 +59,7 @@ Me especializo en:
 - **Automatización de despliegues** con CI/CD.  
 - **SaaS y sistemas empresariales escalables**.  
 
-📍 Basado en **Buenos Aires, Argentina** — disponible para proyectos **freelance internacionales**.  
+📍 Vivo en **Buenos Aires, Argentina** — disponible para proyectos **freelance internacionales**.  
 
 ---
 
